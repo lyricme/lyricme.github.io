@@ -8,7 +8,7 @@ News: We hit 1000 product hunt votes!!!
 
 Check the actuel sight out at - https://lyricme.repl.co 
 
-If you want to you can see the data - https:/lyricme.repl.co/AFINN.json 
+If you want to you can see the data - https://lyricme.repl.co/data/AFINN.json 
 
 API - https://lyricme.github.io/api-system
 
