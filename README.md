@@ -11,7 +11,7 @@ News: [Awwwards](https://awwwards.com) PHP 2020. Site of the day - - - 1100 upvo
 
 Check the actuel sight out at - [lyricme.repl.co](https://lyricme.repl.co)
 
-If you want to you can see the [data](https://lyricme.repl.co/data/AFINN.json)
+If you want to you can see the open source [data](https://lyricme.repl.co/data/AFINN.json) that provides the positive and negative balance in the words
 
 Want to dowload the data?
 API - [Click here](https://lyricme.github.io/api/v1)
