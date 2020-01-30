@@ -10,6 +10,7 @@ Here I will be posting recent news, updates, and more...
 News: [Awwwards](https://awwwards.com) PHP 2020. Site of the day - - - 1100 upvotes on ProductHunt, that you [@jajoosam](https://twitter.com/jajoosam) for the making the post.
 
 Check the actuel sight out at - [lyricme.repl.co](https://lyricme.repl.co)
+
 If you want to you can see the [data](https://lyricme.repl.co/data/AFINN.json)
 
 Want to dowload the data?
