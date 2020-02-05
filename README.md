@@ -9,9 +9,10 @@ Wanna just skip this content and check the product - Click [here](https://lyricm
 
 Here I will be posting recent news, updates, and more...
 
-News: [Awwwards](https://awwwards.com) PHP 2020. Site of the day - - - 1100 upvotes on ProductHunt, that you [@jajoosam](https://twitter.com/jajoosam) for the making the post.
+News: [Awwwards](https://awwwards.com) PHP 2020, Site of the day
+1100 upvotes on ProductHunt, thank you [@jajoosam](https://twitter.com/jajoosam) for the making the post.
 
-If you want to you can see the open source [data](https://lyricme.repl.co/data/AFINN.json) that provides the positive and negative balance in the words
+If you want to you can see the open source [data](https://lyricme.repl.co/data/AFINN.json) that provides the positive and negative balance in the words.
 
 Want to dowload the data?
 API - [Click here](https://lyricme.github.io/api/v1)
